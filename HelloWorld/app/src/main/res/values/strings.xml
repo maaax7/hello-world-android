@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">HelloWorld</string>
+    <string name="hello_world">Hello World</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnMais">+</string>
+    <string name="btnMenos">-</string>
+    <string name="btnZerar">Zerar tudo</string>
+    <string name="txtZero">0</string>
+
+</resources>
